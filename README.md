@@ -1,0 +1,1 @@
+This project will facilitate managing finances in daily life by tracking and sending notifications about incoming payments. Initial user configuration will generate scheduler with finance payments. 
